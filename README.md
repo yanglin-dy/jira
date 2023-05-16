@@ -18,8 +18,10 @@
 ## 环境要求
 - docker: 17.09.0+
 - docker-compose: 1.24.0+
+```
 jira和confluence下载地址：
 
+```
 
 ## 打包docker镜像
 
