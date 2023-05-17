@@ -20,7 +20,8 @@
 - docker-compose: 1.24.0+
 ```
 jira和confluence下载地址：
-
+链接：https://pan.baidu.com/s/1Yuwv-DCVH49hpQOQFa4-Vg?pwd=8fku 
+提取码：8fku
 ```
 
 ## 打包docker镜像
